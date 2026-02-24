@@ -66,3 +66,11 @@ docs/api/
 /city_dual_graphs
 /city_graphs
 /city_partitions
+network_metrics/partition_circuity_edges_all_cities.dill
+network_metrics/partition_edge_density_all_cities.dill
+network_metrics/partition_intersection_density_nodes_all_cities.dill
+network_metrics/partition_node_degrees_all_cities.gpkg
+network_metrics/partition_orientation_entropy_edges_all_cities.dill
+/network_metrics
+street_network_clusters_k5.csv
+topology_classification_model.dill
