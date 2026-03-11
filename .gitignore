@@ -74,3 +74,9 @@ network_metrics/partition_orientation_entropy_edges_all_cities.dill
 /network_metrics
 street_network_clusters_k5.csv
 topology_classification_model.dill
+*.png
+/data
+clustering_data.dill
+*.dill
+partition_gdf
+scored_schemes_with_taxonomy.csv
